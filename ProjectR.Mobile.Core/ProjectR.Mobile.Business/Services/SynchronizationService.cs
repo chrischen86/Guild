@@ -83,5 +83,17 @@ namespace ProjectR.Mobile.Business
 			var result = response.Content.ReadAsStringAsync ().Result;
 			return result;
 		}
+
+		private async Task<string> Post(string uri)
+		{
+			var client = Client;
+			client.BaseAddress = new Uri (_url);
+
+			var response = await client.PostAsync(uri);
+			response.EnsureSuccessStatusCode ();
+
+			var result = response.Content.ReadAsStringAsync ().Result;
+			return result;
+		}
 	}
 }
