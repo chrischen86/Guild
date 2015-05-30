@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Guild_Android.csproj" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4.4.2" />
+  <MonoDevelop.Ide.Workbench>
+    <Files>
+      <File FileName="e:\My Documents\Guild_Android\Fragments\BrowseFragment.cs" Line="29" Column="48" />
+      <File FileName="ProjectR.Mobile.Core\ProjectR.Mobile.Business\Services\Contracts\ISynchronizationService.cs" Line="1" Column="1" />
+      <File FileName="ProjectR.Mobile.GuildShared\Models\Associations.cs" Line="18" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="E:\My Documents\Guild_Android\Guild.Core\ServiceAccessLayer\SynchronizationService.cs" line="43" column="1" />
+      <Breakpoint file="e:\My Documents\Guild_Android\Fragments\BrowseFragment.cs" line="31" column="1" />
+      <Breakpoint file="E:\My Documents\Guild_Android\ProjectR.Mobile.Core\ProjectR.Mobile.Business\Services\SynchronizationService.cs" line="84" column="1" />
+      <Breakpoint file="E:\My Documents\Guild_Android\ProjectR.Mobile.Core\ProjectR.Mobile.Business\Services\SynchronizationService.cs" line="80" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

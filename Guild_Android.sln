@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{F2460AB0-B371-4EFC-9F05-421AE38A8125}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectR.Mobile.Business", "ProjectR.Mobile.Core\ProjectR.Mobile.Business\ProjectR.Mobile.Business.csproj", "{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectR.Mobile.Dal", "ProjectR.Mobile.Core\ProjectR.Mobile.Dal\ProjectR.Mobile.Dal.csproj", "{01B89B01-E622-4D03-824F-4CC33F5E1487}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ProjectR.Mobile.Data", "ProjectR.Mobile.Core\ProjectR.Mobile.Data\ProjectR.Mobile.Data.csproj", "{17A62964-0205-4F97-91A2-A9FEFCA8F620}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{0887784B-F848-4B5B-A69D-7D408D1128C8}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProjectR.Mobile.GuildShared", "ProjectR.Mobile.GuildShared\ProjectR.Mobile.GuildShared.shproj", "{0D2047F7-BFE1-41E5-93BB-51A3F0487A87}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platforms", "Platforms", "{5B681D4C-D25A-4690-9863-82A262052569}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild_Android", "Guild_Android.csproj", "{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild_Android.UITests", "Guild_Android.UITests\Guild_Android.UITests.csproj", "{F77C209B-3A76-4421-8134-254A567A6A83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{01B89B01-E622-4D03-824F-4CC33F5E1487}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01B89B01-E622-4D03-824F-4CC33F5E1487}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01B89B01-E622-4D03-824F-4CC33F5E1487}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01B89B01-E622-4D03-824F-4CC33F5E1487}.Release|Any CPU.Build.0 = Release|Any CPU
+		{17A62964-0205-4F97-91A2-A9FEFCA8F620}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{17A62964-0205-4F97-91A2-A9FEFCA8F620}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{17A62964-0205-4F97-91A2-A9FEFCA8F620}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{17A62964-0205-4F97-91A2-A9FEFCA8F620}.Release|Any CPU.Build.0 = Release|Any CPU
+		{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F77C209B-3A76-4421-8134-254A567A6A83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F77C209B-3A76-4421-8134-254A567A6A83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F77C209B-3A76-4421-8134-254A567A6A83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F77C209B-3A76-4421-8134-254A567A6A83}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58} = {F2460AB0-B371-4EFC-9F05-421AE38A8125}
+		{01B89B01-E622-4D03-824F-4CC33F5E1487} = {F2460AB0-B371-4EFC-9F05-421AE38A8125}
+		{17A62964-0205-4F97-91A2-A9FEFCA8F620} = {F2460AB0-B371-4EFC-9F05-421AE38A8125}
+		{0D2047F7-BFE1-41E5-93BB-51A3F0487A87} = {0887784B-F848-4B5B-A69D-7D408D1128C8}
+	EndGlobalSection
+EndGlobal
