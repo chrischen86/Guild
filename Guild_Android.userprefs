@@ -1,10 +1,10 @@
 ﻿<Properties StartupItem="Guild_Android.csproj" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.4.4.2" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.SelectDevice" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ProjectR.Mobile.Core\ProjectR.Mobile.Data\BusinessEntityBase.cs">
     <Files>
-      <File FileName="e:\My Documents\Guild_Android\Fragments\BrowseFragment.cs" Line="29" Column="48" />
       <File FileName="ProjectR.Mobile.Core\ProjectR.Mobile.Business\Services\Contracts\ISynchronizationService.cs" Line="1" Column="1" />
-      <File FileName="ProjectR.Mobile.GuildShared\Models\Associations.cs" Line="18" Column="3" />
+      <File FileName="ProjectR.Mobile.GuildShared\Models\Associations.cs" Line="1" Column="1" />
+      <File FileName="ProjectR.Mobile.Core\ProjectR.Mobile.Data\BusinessEntityBase.cs" Line="16" Column="14" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

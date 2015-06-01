@@ -13,8 +13,6 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Shared", "Shared", "{088778
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ProjectR.Mobile.GuildShared", "ProjectR.Mobile.GuildShared\ProjectR.Mobile.GuildShared.shproj", "{0D2047F7-BFE1-41E5-93BB-51A3F0487A87}"
 EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Platforms", "Platforms", "{5B681D4C-D25A-4690-9863-82A262052569}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild_Android", "Guild_Android.csproj", "{FC2CBAF7-8097-449B-B88C-3F1BC79B2BBC}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Guild_Android.UITests", "Guild_Android.UITests\Guild_Android.UITests.csproj", "{F77C209B-3A76-4421-8134-254A567A6A83}"

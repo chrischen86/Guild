@@ -108,10 +108,4 @@
     <Folder Include="Activities\" />
     <Folder Include="UI\" />
   </ItemGroup>
-  <ItemGroup>
-    <ProjectReference Include="ProjectR.Mobile.Core\ProjectR.Mobile.Business\ProjectR.Mobile.Business.csproj">
-      <Project>{59A4BE33-18CE-496E-AAD5-02EEC7AC7E58}</Project>
-      <Name>ProjectR.Mobile.Business</Name>
-    </ProjectReference>
-  </ItemGroup>
 </Project>
